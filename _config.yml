@@ -195,15 +195,7 @@ exclude:
   - _pages/blog.md
   - _posts/
   - _pages/teaching.md
-  - _bibliography/
   - _pages/publications.md
-  - _layouts/bib.liquid
-  - _includes/bib_search.liquid
-  - _includes/citation.liquid
-  - _includes/selected_papers.liquid
-  - _plugins/google-scholar-citations.rb
-  - _plugins/hide-custom-bibtex.rb
-  - _plugins/inspirehep-citations.rb
 keep_files:
   - CNAME
   - .nojekyll
