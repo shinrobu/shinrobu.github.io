@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-03-02 13:00:00-0800
-inline: true
+date: 2025-03-03 00:00:00-0800
+inline: false
 related_posts: false
 ---
 
-Presented my research on "LIDAR SLAM vs Visual SLAM" so far at Cal Poly Pomona's RSCA conference!
+Launched the first version of my new website!
