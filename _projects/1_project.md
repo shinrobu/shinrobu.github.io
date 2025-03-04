@@ -1,16 +1,22 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Arduino Fighstick
+description: A project to create a game controller with an arcade-style button layout, colloquially known as a "fightstick."
+img: assets/img/fightstick.jpg
 importance: 1
-category: work
+category: Work
 related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This is a project to create a game controller with an arcade-style button layout, colloquially known as a "fightstick." Created using <a href="https://github.com/AlanChatham/UnoJoy">Alan Chatham's UnoJoy library</a>, and an Arduino Mega 2560 Rev3.
+
+This fightstick has an LCD screen display (QAPASS 1602A) as well, for an extra feature to practice with. This is used as to display the buttons currently being pressed on the controller. However, a  7ms delay was implemented to make the LCD screen actually readable. This was the closest value we could compromise with to make the controller as responsive as possible while making the LCD readable.
+
+If you would like to create a controller that would be more practical, I highly recommend to not implement this LCD feature. 7ms delay is a significant negative factor in playing competitive fighting games.
+
+There's no documentation on how the actual fightstick itself was built/wired, but it's not too hard to create the actual fightstick.
+
+
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
@@ -23,17 +29,14 @@ To give your project a background in the portfolio page, just add the img tag to
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/fightstick.jpg" title="Fightstick image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/fightstick2.jpg" title="Fightstick image 2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Finished product. Woodworking and wiring done by Garrett Wong. Photo credit: Kevin Ly
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
