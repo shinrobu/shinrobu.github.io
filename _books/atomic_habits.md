@@ -9,7 +9,7 @@ categories: self-help social-psychology
 tags: top-100
 buy_link: https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299
 started: 2022-08-21
-finished: 2024-0-07
+finished: 2023-01-25
 released: 2018
 stars: 4.8
 goodreads_review:

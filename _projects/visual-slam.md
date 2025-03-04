@@ -20,3 +20,10 @@ Current progress as of 3/3/2025 involves being able to run ORB-SLAM3 on a Raspbe
 <div class="caption">
     The left window is a point cloud of a classroom laboratory. The window on the top right is the keyframe being analyzed by ORB-SLAM3's algorithm, and the bottom right image shows the ROS tree: raw video feed is fed into ORB-SLAM3 and is outputted as seen to the other two windows.
 </div>
+
+### Parts List and Software
+- Raspberry Pi 4 (Ubuntu 20.04)
+- Playstation Eye
+- ORB-SLAM3
+- USB Keyboard
+- USB Mouse
