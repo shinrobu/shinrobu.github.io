@@ -9,14 +9,6 @@ nav_order: 2
 
 {% if site.data.repositories.github_users %}
 
-## GitHub users
-
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.liquid username=user %}
-  {% endfor %}
-</div>
-
 ---
 
 {% if site.repo_trophies.enabled %}
@@ -37,7 +29,7 @@ nav_order: 2
 
 {% if site.data.repositories.github_repos %}
 
-## GitHub Repos for Projects I've Been A Part Of
+## GitHub Repos
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for repo in site.data.repositories.github_repos %}

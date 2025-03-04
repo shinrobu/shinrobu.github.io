@@ -28,6 +28,13 @@ There's no documentation on how the actual fightstick itself was built/wired, bu
     Finished product. Woodworking and wiring done by Garrett Wong. Photo credit: Kevin Ly
 </div>
 
+### Parts List
+- Arduino Mega 2560 Rev3
+- QAPASS 1602A LCD Screen
+- Arcade Joystick (we used a Sanwa JLF 8-way joystick, easily found on Amazon)
+- 8x Arcade Buttons (we used 30mm Qanba buttons, also easily found on Amazon)
+- An enclosure for the fightstick itself
+
 The code for the project can be found at this repository: 
 
 <div>
@@ -36,3 +43,5 @@ The code for the project can be found at this repository:
         <img class="only-dark w-100" alt="shinrobu/Arduino-Fightstick" src="https://github-readme-stats.vercel.app/api/pin/?username=shinrobu&amp;repo=Arduino-Fightstick&amp;theme=midnight-purple&amp;locale=en&amp;show_owner=false&amp;description_lines_count=2"> 
         </a>
 </div>
+
+Thanks to Garrett Wong, Kevin Ly, and Keenan Tan for being great project members.
