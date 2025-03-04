@@ -67,27 +67,36 @@
   "volunteer": [
     {
       "organization": "Bronco Esports",
-      "location": "California State Polytechnic University, Pomona, CA",
+      "location": "Pomona, CA",
       "position": "Co-President",
       "url": "",
       "startDate": "2023-05-01",
       "endDate": "2024-05-20",
       "summary": "Led CPP's premier Esports organization, organizing events and managing club affairs.",
-      "highlights": ["Secured 4 sponsorships for the club for the April 2024 event through coordinating with multiple company representatives.", "Hosted an in-person event in April 2024 with 300+ attendees on university campus by coordinating 5 teams of volunteers."]
+      "highlights": ["Secured 4 sponsorships for the club for the April 2024 event through coordinating with multiple company representatives.", "Hosted an in-person event in April 2024 with 300+ attendees on university campus by coordinating 5 teams of volunteers.", "Led an in-person Bandai Card Games sponsored event with 20+ attendees to teach college students how to play card games such as the One Piece Card Game."]
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming",
       "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "C++",
+        "Java",
+        "Verilog",
+        "GitHub"
+      ]
+    },
+    {
+      "name": "Platforms and Technologies",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Linux / Ubuntu",
+        "Arduino",
+        "Raspberry Pi"
       ]
     }
   ]

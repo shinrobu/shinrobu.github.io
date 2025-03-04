@@ -44,4 +44,4 @@ The code for the project can be found at this repository:
         </a>
 </div>
 
-Thanks to Garrett Wong, Kevin Ly, and Keenan Tan for being great project members.
+Special thanks to Garrett Wong, Kevin Ly, and Keenan Tan for their contributions to this project.
