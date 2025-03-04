@@ -31,7 +31,7 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "dropdown-bookshelf",
-              title: "bookshelf",
+              title: "Bookshelf",
               description: "",
               section: "Dropdown",
               handler: () => {
@@ -63,7 +63,7 @@ ninja.data = [{
           title: 'Atomic Habits',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/atomic_habits/";
             },},{id: "news-presented-my-research-on-lidar-slam-vs-visual-slam-so-far-at-cal-poly-pomona-s-rsca-conference",
           title: 'Presented my research on “LIDAR SLAM vs Visual SLAM” so far at Cal...',
           description: "",
