@@ -6,6 +6,7 @@ repo_description_lines_max: 2
 github_repos:
   - shinrobu/Arduino-Fightstick
   - shinrobu/Log-Pose-Application
+  - xenoQui/FPGA-AlarmClock
   - Enzodacabbie/Pancakes-and-Love-Letters
   - sammiemac/Planetary-Pursuits
   - shinrobu/my-leetcode-solutions
