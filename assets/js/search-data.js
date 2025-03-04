@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "Repositories",
-          description: "My GitHub repositories for projects I&#39;ve done or contributed to.",
+          description: "My GitHub repositories for projects I&#39;ve contributed to.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
@@ -70,8 +70,8 @@ ninja.data = [{
           section: "News",},{id: "news-launched-the-first-version-of-my-new-website",
           title: 'Launched the first version of my new website!',
           description: "",
-          section: "News",},{id: "projects-arduino-fighstick",
-          title: 'Arduino Fighstick',
+          section: "News",},{id: "projects-arduino-fightstick",
+          title: 'Arduino Fightstick',
           description: "A project to create a game controller with an arcade-style button layout, colloquially known as a &quot;fightstick.&quot;",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
