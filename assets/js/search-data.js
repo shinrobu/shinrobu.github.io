@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "My CV as of March 2025.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -59,8 +59,8 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "books-the-godfather",
-          title: 'The Godfather',
+    },{id: "books-atomic-habits",
+          title: 'Atomic Habits',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
