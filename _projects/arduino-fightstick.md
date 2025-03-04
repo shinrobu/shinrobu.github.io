@@ -3,7 +3,7 @@ layout: page
 title: Arduino Fightstick
 description: A project to create a game controller with an arcade-style button layout, colloquially known as a "fightstick."
 img: assets/img/fightstick.jpg
-importance: 1
+importance: 2
 category: Work
 related_publications: false
 ---

@@ -3,7 +3,7 @@ layout: page
 title: Log Pose
 description: A to-do list app that was previously published on the Google Play Store!
 img: assets/img/app_mockup.png
-importance: 2
+importance: 3
 category: Work
 giscus_comments: false
 ---
