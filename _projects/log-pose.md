@@ -2,11 +2,26 @@
 layout: page
 title: Log Pose
 description: A to-do list app that was previously published on the Google Play Store!
-img: assets/img/3.jpg
+img: assets/img/app_mockup.png
 importance: 2
 category: Work
 giscus_comments: false
 ---
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/app_icon.png" title="app icon" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/app_mockup.png" title="app mockup" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/app_screenshot.png" title="app screenshot" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    On the left, Log Pose's app icon. In the middle, a graphic for my app. On the right, a screenshot of how the app looks.
+</div>
 
 Log Pose is a to-do list application I published as a side project. It utilized Firebase for user authentication and data storage! It was a really insightful project, and my first experience with mobile application development.
 
