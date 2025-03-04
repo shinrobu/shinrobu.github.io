@@ -70,12 +70,7 @@ ninja.data = [{
           section: "News",},{id: "news-launched-the-first-version-of-my-new-website",
           title: 'Launched the first version of my new website!',
           description: "",
-          section: "News",},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-arduino-fightstick",
+          section: "News",},{id: "projects-arduino-fightstick",
           title: 'Arduino Fightstick',
           description: "A project to create a game controller with an arcade-style button layout, colloquially known as a &quot;fightstick.&quot;",
           section: "Projects",handler: () => {
@@ -85,6 +80,11 @@ ninja.data = [{
           description: "A to-do list app that was previously published on the Google Play Store!",
           section: "Projects",handler: () => {
               window.location.href = "/projects/log-pose/";
+            },},{id: "projects-ongoing-visual-slam-mapping",
+          title: '(Ongoing) Visual SLAM Mapping',
+          description: "A project to help develop the mapping systems of an autonomous racing car.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/visual-slam/";
             },},{
         id: 'social-email',
         title: 'email',
