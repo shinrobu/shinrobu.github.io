@@ -75,8 +75,8 @@ ninja.data = [{
           description: "A project to create a game controller with an arcade-style button layout, colloquially known as a &quot;fightstick.&quot;",
           section: "Projects",handler: () => {
               window.location.href = "/projects/arduino-fightstick/";
-            },},{id: "projects-arduino-fightstick",
-          title: 'Arduino Fightstick',
+            },},{id: "projects-fpga-alarm-clock-in-verilog",
+          title: 'FPGA Alarm Clock in Verilog',
           description: "An alarm clock based on an FPGA board, utilizing VGA to show the clock on a monitor.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/fpga-alarm-clock/";
