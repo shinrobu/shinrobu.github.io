@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Arduino Fightstick
+title: FPGA Alarm Clock in Verilog
 description: An alarm clock based on an FPGA board, utilizing VGA to show the clock on a monitor.
 img: assets/img/fpga_alarm_clock.png
 importance: 4
@@ -8,29 +8,27 @@ category: Work
 related_publications: false
 ---
 
-This project was creating an alarm clock in Verilog.
-
-This fightstick has an LCD screen display (QAPASS 1602A) as well, for an extra feature to practice with. This is used as to display the buttons currently being pressed on the controller. However, a  7ms delay was implemented to make the LCD screen actually readable. This was the closest value we could compromise with to make the controller as responsive as possible while making the LCD readable.
-
-If you would like to create a controller that would be more practical, I highly recommend to not implement this LCD feature. 7ms delay is a significant negative factor in playing competitive fighting games.
-
-There's no documentation on how the actual fightstick itself was built/wired, but it's not too hard to create the actual fightstick.
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/fightstick.jpg" title="Fightstick image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/fightstick2.jpg" title="Fightstick image 2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/fpga_alarm_clock.png" title="Alarm clock image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Finished product. Woodworking and wiring done by Garrett Wong. Photo credit: Kevin Ly
+    Screenshot of the finished alarm clock.
 </div>
+
+This project was creating an alarm clock in Verilog, coded in Vivado 2023. The time is set utilizing the switches on the FPGA board, and the time is displayed on a monitor. When the real time matches the alarm time, the screen flashes green.
+
+My role in this project was aiding in the combination of the Alarm + Clock modules, and to implement the VGA function.
 
 ### Parts List
 - Nexys A7 100T FPGA Board
 - VGA Cable
+
+The code has 3 main segments:
+- AlarmClock (Final/Combined)
+- Alarm (Sound)
+- Clock (Standalone)
 
 The code for the project can be found at this repository: 
 
