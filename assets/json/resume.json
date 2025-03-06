@@ -27,7 +27,7 @@
       "institution": "California State Polytechnic University, Pomona",
       "location": "Pomona, CA",
       "area": "Computer Engineering, Minor in Computer Science",
-      "studyType": "B.S.",
+      "studyType": "Bachelor of Science",
       "startDate": "2020-08-01",
       "endDate": "2025-05-16",
       "score": "",
@@ -83,8 +83,8 @@
       "organization": "Cal Poly Pomona Game Development Club",
       "location": "Pomona, CA",
       "position": "Executive Board Secretary",
-      "startDate": "2023-05-01",
-      "endDate": "2024-05-20",
+      "startDate": "2023-04-28",
+      "endDate": "2024-05-19",
       "summary": "Served CPP's central game development club by organizing events, scheduling rooms, and writing weekly newsletters for club members and CS majors.",
       "highlights": ["Ensured 20+ weekly meetings occured throughout the academic year through scheduling room space on university campus and coordinating with university officials.", "Wrote 20+ weekly newsletters sent out to 300+ students updating them about club activities, events, and workshops.", "Co-led a GitHub workshop with the 23-24 President of CPP Game Dev, Melvin Gitbumrungsin, to teach 20+ attendees the basics of Git and GitHub."]
     }
