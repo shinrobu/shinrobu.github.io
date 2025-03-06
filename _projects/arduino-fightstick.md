@@ -28,6 +28,15 @@ There's no documentation on how the actual fightstick itself was built/wired, bu
     Finished product. Woodworking and wiring done by Garrett Wong. Photo credit: Kevin Ly
 </div>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/fightstick_lcd.jpg" title="Fightstick image 2" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    LCD screen with the bottom four buttons being pressed. Photo credit: Kevin Ly
+</div>
+
 ### Parts List
 - Arduino Mega 2560 Rev3
 - QAPASS 1602A LCD Screen
