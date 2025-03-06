@@ -14,7 +14,7 @@ Current progress as of 3/3/2025 involves being able to run ORB-SLAM3 on a Raspbe
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/SLAM_Screenshot.png" title="point cloud image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/SLAM_Screenshot.png" title="point cloud image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">

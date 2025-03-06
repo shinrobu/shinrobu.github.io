@@ -9,7 +9,7 @@ related_publications: false
 ---
 
 <div class="row">
-    <div class="col-sm w-50 h-50">
+    <div class="col-sm-6 col-md-4">
         {% include figure.liquid loading="eager" path="assets/img/fpga_alarm_clock.png" title="Alarm clock image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
