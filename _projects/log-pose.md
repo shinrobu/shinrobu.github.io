@@ -28,7 +28,7 @@ You can check out the app on the Google Play Store [here!*](https://play.google.
 
 You can check out the code for the application here:
 
-<div>
+<div class="repo p-2 text-center">
     <a href="https://github.com/shinrobu/Log-Pose-Application" rel="external nofollow noopener" target="_blank"> 
         <img class="only-light w-100" alt="shinrobu/Log-Pose-Application" src="https://github-readme-stats.vercel.app/api/pin/?username=shinrobu&amp;repo=Log-Pose-Application&amp;theme=buefy&amp;locale=en&amp;show_owner=false&amp;description_lines_count=2"> 
         <img class="only-dark w-100" alt="shinrobu/Log-Pose-Application" src="https://github-readme-stats.vercel.app/api/pin/?username=shinrobu&amp;repo=Log-Pose-Application&amp;theme=midnight-purple&amp;locale=en&amp;show_owner=false&amp;description_lines_count=2"> 

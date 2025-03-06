@@ -9,7 +9,7 @@ related_publications: false
 ---
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm w-50 h-50">
         {% include figure.liquid loading="eager" path="assets/img/fpga_alarm_clock.png" title="Alarm clock image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -38,3 +38,5 @@ The code for the project can be found at this repository:
         <img class="only-dark w-100" alt="xenoQui/FPGA-AlarmClock" src="https://github-readme-stats.vercel.app/api/pin/?username=xenoQui&amp;repo=FPGA-AlarmClock&amp;theme=midnight-purple&amp;locale=en&amp;show_owner=true&amp;description_lines_count=2"> 
     </a> 
 </div>
+
+Project members: Jeff Tang, Jimmy Luu, and Kyle Acosta

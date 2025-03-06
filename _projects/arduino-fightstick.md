@@ -37,7 +37,7 @@ There's no documentation on how the actual fightstick itself was built/wired, bu
 
 The code for the project can be found at this repository: 
 
-<div>
+<div class="repo p-2 text-center">
     <a href="https://github.com/shinrobu/Arduino-Fightstick" rel="external nofollow noopener" target="_blank"> 
         <img class="only-light w-100" alt="shinrobu/Arduino-Fightstick" src="https://github-readme-stats.vercel.app/api/pin/?username=shinrobu&amp;repo=Arduino-Fightstick&amp;theme=buefy&amp;locale=en&amp;show_owner=false&amp;description_lines_count=2"> 
         <img class="only-dark w-100" alt="shinrobu/Arduino-Fightstick" src="https://github-readme-stats.vercel.app/api/pin/?username=shinrobu&amp;repo=Arduino-Fightstick&amp;theme=midnight-purple&amp;locale=en&amp;show_owner=false&amp;description_lines_count=2"> 
