@@ -21,7 +21,7 @@ Each test ran utilizing 6 cores of the Intel i7-9750H processor, at 2592.01 MHz 
 I utilized Anjan Roy's C++ [TinyJAMBU implementation](https://github.com/itzmeanjan/tinyjambu), along with [Google Benchmark](https://github.com/google/benchmark) for collecting the times and other data needed for analysis.
 
 <div class="row">
-    <div class="col-sm-6 col-md-4 mx-auto">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/tinyjambu.png" title="TinyJAMBU benchmark image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
