@@ -85,6 +85,11 @@ ninja.data = [{
           description: "A to-do list app that was previously published on the Google Play Store!",
           section: "Projects",handler: () => {
               window.location.href = "/projects/log-pose/";
+            },},{id: "projects-tinyjambu-c-compiler-analysis",
+          title: 'TinyJAMBU C++ Compiler Analysis',
+          description: "A project to measure the performance of the TinyJAMBU cryptography algorithm on GCC and Clang compilers.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/tinyjambu-analysis/";
             },},{id: "projects-ongoing-visual-slam-mapping",
           title: '(Ongoing) Visual SLAM Mapping',
           description: "A project to help develop the mapping systems of an autonomous racing car.",
