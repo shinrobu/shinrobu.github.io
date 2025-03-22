@@ -31,4 +31,4 @@ I utilized Anjan Roy's C++ [TinyJAMBU implementation](https://github.com/itzmean
 
 The key finding was that Clang exhibited slightly better performance compared to GCC across various key sizes (128-bit, 192-bit, and 256-bit). 
 
-You can read my full paper on the subject [here.](https://shinrobu.github.io/assets/TinyJAMBUCompilerPaper.pdf)
+You can read my full paper on the subject [here.](https://shinrobu.github.io/assets/pdf/TinyJAMBUCompilerPaper.pdf)
