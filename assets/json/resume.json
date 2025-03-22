@@ -26,9 +26,8 @@
     {
       "institution": "California State Polytechnic University, Pomona",
       "location": "Pomona, CA",
-      "url": "",
       "area": "Computer Engineering, Minor in Computer Science",
-      "studyType": "B.S.",
+      "studyType": "Bachelor of Science",
       "startDate": "2020-08-01",
       "endDate": "2025-05-16",
       "score": "",
@@ -51,13 +50,19 @@
       "startDate": "2023-03-01",
       "endDate": "2023-05-01",
       "url": "https://github.com/shinrobu/Arduino-Fightstick"
+    },
+    {
+      "name": "Unmanned Ground Vehicle ROS Research",
+      "summary": "Researched Robot Operating System (ROS) principles to facilitate data transfer from sensors to motors, and created documentation for Ubuntu + ROS setup, as part of the Northrop Grumman Collaboration Project.",
+      "highlights": ["ROS", "Ubuntu"],
+      "startDate": "2022-08-24",
+      "endDate": "2023-01-15"
     }
   ],
   "work": [
     {
       "name": "Dxn Provisions",
       "position": "Cashier",
-      "url": "",
       "startDate": "2024-04-08",
       "endDate": "2025-01-21",
       "summary": "Kept card store clean, sold card game products to customers, ensured safe lockup of building every shift.",
@@ -69,11 +74,19 @@
       "organization": "Bronco Esports",
       "location": "Pomona, CA",
       "position": "Co-President",
-      "url": "",
       "startDate": "2023-05-01",
       "endDate": "2024-05-20",
       "summary": "Led CPP's premier Esports organization, organizing events and managing club affairs.",
       "highlights": ["Secured 4 sponsorships for the club for the April 2024 event through coordinating with multiple company representatives.", "Hosted an in-person event in April 2024 with 300+ attendees on university campus by coordinating 5 teams of volunteers.", "Led an in-person Bandai Card Games sponsored event with 20+ attendees to teach college students how to play card games such as the One Piece Card Game."]
+    },
+    {
+      "organization": "Cal Poly Pomona Game Development Club",
+      "location": "Pomona, CA",
+      "position": "Executive Board Secretary",
+      "startDate": "2023-04-28",
+      "endDate": "2024-05-19",
+      "summary": "Served CPP's central game development club by organizing events, scheduling rooms, and writing weekly newsletters for club members and CS majors.",
+      "highlights": ["Ensured 20+ weekly meetings occured throughout the academic year through scheduling room space on university campus and coordinating with university officials.", "Wrote 20+ weekly newsletters sent out to 300+ students updating them about club activities, events, and workshops.", "Co-led a GitHub workshop with the 23-24 President of CPP Game Dev, Melvin Gitbumrungsin, to teach 20+ attendees the basics of Git and GitHub."]
     }
   ],
   "skills": [
@@ -97,6 +110,17 @@
         "Linux / Ubuntu",
         "Arduino",
         "Raspberry Pi"
+      ]
+    },
+    {
+      "name": "Soft Skills and Software",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Teamwork",
+        "Organization",
+        "Microsoft Word",
+        "Microsoft Excel"
       ]
     }
   ]
