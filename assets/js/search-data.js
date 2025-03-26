@@ -85,6 +85,11 @@ ninja.data = [{
           description: "A to-do list app that was previously published on the Google Play Store!",
           section: "Projects",handler: () => {
               window.location.href = "/projects/log-pose/";
+            },},{id: "projects-password-generator",
+          title: 'Password Generator',
+          description: "A group console application project to help generate unique passwords.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/password-generator/";
             },},{id: "projects-tinyjambu-c-compiler-analysis",
           title: 'TinyJAMBU C++ Compiler Analysis',
           description: "A project to measure the performance of the TinyJAMBU cryptography algorithm on GCC and Clang compilers.",
