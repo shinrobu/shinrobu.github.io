@@ -2,7 +2,7 @@
 layout: page
 title: Password Generator
 description: A group console application project to help generate unique passwords.
-img: assets/img/SLAM_Screenshot.png
+img:
 importance: 6
 category: Work
 related_publications: false
