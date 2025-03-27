@@ -16,7 +16,7 @@ This is a project to create a controller that plays Musical Instrument Digital I
         {% include figure.liquid loading="eager" path="assets/img/midi_controller_back.png" title="MIDI controller back image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid loading="eager" path="assets/video/fightstick2.jpg" title="Fightstick image 2" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include video.liquid loading="eager" path="assets/video/midi_demo_video.mp4" title="Fightstick image 2" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
