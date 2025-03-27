@@ -4,7 +4,7 @@ title: FPGA Alarm Clock in Verilog
 description: An alarm clock based on an FPGA board, utilizing VGA to show the clock on a monitor.
 img: assets/img/fpga_alarm_clock.png
 importance: 4
-category: Work
+category: 2023
 related_publications: false
 ---
 

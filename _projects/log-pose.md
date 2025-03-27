@@ -4,7 +4,7 @@ title: Log Pose
 description: A to-do list app that was previously published on the Google Play Store!
 img: assets/img/app_mockup.png
 importance: 3
-category: Work
+category: 2024
 giscus_comments: false
 ---
 

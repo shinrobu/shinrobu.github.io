@@ -4,7 +4,7 @@ title: Password Generator
 description: A group console application project to help generate unique passwords.
 img:
 importance: 6
-category: Work
+category: 2021
 related_publications: false
 ---
 

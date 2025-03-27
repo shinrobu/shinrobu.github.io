@@ -4,7 +4,7 @@ title: TinyJAMBU C++ Compiler Analysis
 description: A project to measure the performance of the TinyJAMBU cryptography algorithm on GCC and Clang compilers.
 img: assets/img/tinyjambu.png
 importance: 5
-category: Work
+category: 2024
 related_publications: false
 ---
 

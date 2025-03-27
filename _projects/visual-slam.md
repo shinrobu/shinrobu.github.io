@@ -4,7 +4,7 @@ title: (Ongoing) Visual SLAM Mapping
 description: A project to help develop the mapping systems of an autonomous racing car.
 img: assets/img/SLAM_Screenshot.png
 importance: 1
-category: Work
+category: 2025
 related_publications: false
 ---
 

@@ -5,7 +5,7 @@ permalink: /projects/
 description: Here's the collection of my projects I've been up to.
 nav: true
 nav_order: 1
-display_categories: [Work, Fun]
+display_categories: [2025, 2024, 2023, 2022, 2021, 2020]
 horizontal: false
 ---
 
