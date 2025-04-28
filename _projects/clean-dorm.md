@@ -10,7 +10,7 @@ related_publications: false
 
 Clean Dorm was a group web application project worked on by myself and other fellow CPP students Melvin Gitbumrungsin and Allison Ly. The purpose to create diagrams for house layouts and show tasks performed in them. BroncoHacks 2025's theme was to create a solution for a community, so we aimed for helping dorming students outline their chores around the dorm and helping them get those done. 
 
-This project utilized ReactJS and Vite to run locally, and was my first ever excusrion into ReactJS. My specific contribution to this project was the tasks webpage and showing the tasks on a counter.
+This project utilized ReactJS and Vite to run locally, and was my first ever excursion into ReactJS. My specific contribution to this project was the tasks webpage and showing the tasks on a counter.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -25,7 +25,6 @@ This project utilized ReactJS and Vite to run locally, and was my first ever exc
 </div>
 
 You can check out the code for our project here:
-You can check out the code for the application here:
 
 <div class="repo p-2 text-center">
     <a href="https://github.com/Melvingitb/Clean-Dorm" rel="external nofollow noopener" target="_blank"> 
