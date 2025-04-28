@@ -26,7 +26,7 @@ Log Pose is a to-do list application I published as a side project. It utilized 
 
 You can check out the app on the Google Play Store [here!*](https://play.google.com/store/apps/details?id=edu.cpp.cs4750.spring24.log_pose&hl=en_US&pli=1)
 
-*The app has been taken down from the Google Play Store as of 2/15/2025. Due to CPP not reviewing and confirming their application publisher information this year. Since I published this app through their Google developer account, the app is currently offline.
+<!-- *The app has been taken down from the Google Play Store as of 2/15/2025. Due to CPP not reviewing and confirming their application publisher information this year. Since I published this app through their Google developer account, the app is currently offline. -->
 
 You can check out the code for the application here:
 
