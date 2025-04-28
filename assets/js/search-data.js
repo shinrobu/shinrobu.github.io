@@ -80,6 +80,11 @@ ninja.data = [{
           description: "A project to create a controller that would be able to play MIDI sounds when connected to a computer.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/arduino-midi-controller/";
+            },},{id: "projects-clean-dorm",
+          title: 'Clean Dorm',
+          description: "A web app created in 24 hours as a part of team Pizza, Wings, and Fries during BroncoHacks 2025.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/clean-dorm/";
             },},{id: "projects-fpga-alarm-clock-in-verilog",
           title: 'FPGA Alarm Clock in Verilog',
           description: "An alarm clock based on an FPGA board, utilizing VGA to show the clock on a monitor.",
