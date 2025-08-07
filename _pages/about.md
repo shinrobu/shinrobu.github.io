@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Pursuing a B.S. in Computer Engineering, Minor in Computer Science
+subtitle: B.S. in Computer Engineering, Minor in Computer Science
 
 profile:
   align: right
@@ -24,10 +24,10 @@ announcements:
 #  limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Rob. I'm an engineering student at California State Polytechnic University, Pomona (or Cal Poly Pomona, for short), currently with a 3.77 GPA. My main interest lies in software development and computer vision.
+Hello, I'm Rob. I'm a engineering graduate who studied at California State Polytechnic University, Pomona (or Cal Poly Pomona, for short), with a B.S. in Computer Engineering, with a minor in Computer Science. I finished college with Magna Cum Laude honors, with a 3.79 GPA. My main interests are in software development and computer vision.
 
 Some of the projects I've worked on include a game controller utilizing C++ and an Arduino MEGA, that displays button inputs on an LCD screen, as well as mobile to-do list application that was previously published on the Google Play Store, called ”Log Pose,” which utilized Java and the Dart framework.
 
 As for what I've done outside of classes, I was very active in clubs. From May 2023 - May 2024, I was one of the Co-Presidents of Cal Poly Pomona's Esports organization, Bronco Esports. As co-president, I helped plan a large-scale event in April 2024, [Frag Fest.](https://www.start.gg/tournament/frag-fest-spring-2024/details) It ended up having 250+ attendees on university campus, and I was in charge of managing teams of volunteers that served food, set up the network, ran gaming tournaments, checked attendees in, and marketed the event to students.
 
-In my free time, I tinker with my Raspberry Pi, listen to records, and play physical trading card games.
+In my free time, I tinker with my Raspberry Pi, exercise, listen to records.
