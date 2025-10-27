@@ -108,8 +108,8 @@ ninja.data = [{
           description: "A project to measure the performance of the TinyJAMBU cryptography algorithm on GCC and Clang compilers.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/tinyjambu-analysis/";
-            },},{id: "projects-ongoing-visual-slam-mapping",
-          title: '(Ongoing) Visual SLAM Mapping',
+            },},{id: "projects-visual-slam-mapping",
+          title: 'Visual SLAM Mapping',
           description: "A project to help develop the mapping systems of an autonomous racing car.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/visual-slam/";
