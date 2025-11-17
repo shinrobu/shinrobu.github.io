@@ -10,7 +10,7 @@ related_publications: false
 
 This is a project to research solutions for mapping systems for Roboracer (formerly known as F1Tenth). Focusing on visual SLAM (Simultaneous Localization and Mapping), which uses a camera feed to plot key features and create a local map for autonomous navigation. Primarily uses <a href="https://github.com/UZ-SLAMLab/ORB_SLAM3">ORB-SLAM3's visual SLAM algorithm.</a> Uses Robot Operating System (ROS) for standardized data transfer.
 
-My contributions to this project involvesbeing able to run ORB-SLAM3 on a Raspberry Pi 4 on Ubuntu 20.04, getting the point cloud. Video feed is captured with a Playstation Eye. Further research is to be done on turning this point cloud into a more refined, outlined map, and to determine which factors affect performance the most (camera model, computer, etc.)
+My contributions to this project involves being able to run ORB-SLAM3 on a Raspberry Pi 4 on Ubuntu 20.04, getting the point cloud. Video feed is captured with a Playstation Eye. Further research is to be done on turning this point cloud into a more refined, outlined map, and to determine which factors affect performance the most (camera model, computer, etc.)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
