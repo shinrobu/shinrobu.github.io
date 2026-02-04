@@ -30,4 +30,4 @@ Some of the projects I've worked on include a game controller utilizing C++ and 
 
 As for what I've done outside of classes, I was very active in clubs. From May 2023 - May 2024, I was one of the Co-Presidents of Cal Poly Pomona's Esports organization, Bronco Esports. As co-president, I helped plan a large-scale event in April 2024, [Frag Fest.](https://www.start.gg/tournament/frag-fest-spring-2024/details) It ended up having 250+ attendees on university campus, and I was in charge of managing teams of volunteers that served food, set up the network, ran gaming tournaments, checked attendees in, and marketed the event to students.
 
-In my free time, I tinker with my Raspberry Pi, exercise, listen to records.
+In my free time, I tinker with my Raspberry Pi, exercise, listen to records, and draw.
